@@ -1,4 +1,4 @@
-# 東京旅遊指南
+# 東京旅遊指南（8月適用）
 
 東京是日本的首都，也是全球最大的都會區之一。這座城市融合了傳統文化與現代都市風情，從古老的寺廟神社到繁華的購物商圈，處處充滿驚喜。
 
@@ -8,7 +8,6 @@
 - [淺草寺 (Sensō-ji)](culture/asakusa-temple.md) - 東京最古老的佛教寺院
 - [明治神宮 (Meiji Shrine)](culture/meiji-shrine.md) - 供奉明治天皇的神社
 - [東京國立博物館 (Tokyo National Museum)](culture/tokyo-national-museum.md) - 日本最大的藝術博物館
-- [根津神社 (Nezu Shrine)](culture/nezu-shrine.md) - 杜鵑花祭聞名的古老神社
 - [秋葉原 (Akihabara)](culture/akihabara.md) - 動漫與電子產品的聖地
 - [淺草地區 (Asakusa)](culture/asakusa-district.md) - 保留傳統江戶風情的文化街區
 - [谷中 (Yanaka)](culture/yanaka.md) - 感受東京老街風情
@@ -38,7 +37,12 @@
 - [濱離宮恩賜庭園 (Hama-Rikyu Gardens)](nature/hama-rikyu.md) - 海水護城河的秘密花園
 - [新宿御苑 (Shinjuku Gyo-en)](nature/shinjuku-gyoen.md) - 三種風格融合的國立花園
 - [小石川後樂園 (Koishikawa Kōrakuen)](nature/koishikawa-korakuen.md) - 江戶時代大名庭園
+- [根津神社 (Nezu Shrine)](nature/nezu-shrine.md) - 杜鵑花祭聞名的古老神社
 
 ### 歷史與古蹟
 - [皇居 (Imperial Palace)](historical/imperial-palace.md) - 天皇的居所
 - [築地市場 (Tsukiji Market)](historical/tsukiji-market.md) - 鮪魚拍賣傳說
+
+### 夏日祭典
+- [高円寺阿波舞 (Koenji Awaodori)](festivals/koenji-awaodori.md) - 每年8月15-18日，東京最大規模阿波舞祭典
+- [隅田川花火大会 (Sumida River Fireworks)](festivals/sumida-river-fireworks.md) - 7月最後週六，日本最著名花火大會之一

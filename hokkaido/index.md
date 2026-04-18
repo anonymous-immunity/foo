@@ -1,6 +1,6 @@
-# 北海道旅遊指南
+# 北海道旅遊指南（8月適用）
 
-北海道是日本最北端的主要島嶼，以壯麗的自然風光、清新的空氣和豐富的美食聞名。從薰衣草花田到火山地形，從溫泉到粉雪，這裡是戶外活動與生態旅遊的理想目的地。
+北海道是日本最北端的主要島嶼，以壯麗的自然風光、清新的空氣和豐富的美食聞名。8月的北海道氣候涼爽宜人（15-25°C），是戶外活動和自然觀光的黃金時期，更是薰衣草花田盛開的季節。
 
 ## 景點分類
 
@@ -22,26 +22,24 @@
 - [阿寒摩周國立公園 (Akan Mashu National Park)](nature/akan-mashu.md) - 神秘火山口湖
 - [大雪國立公園 (Daisetsuzan National Park)](nature/daisetsuzan.md) - 北海道最高峰
 - [釧路濕原國立公園 (Kushiro-shitsugen National Park)](nature/kushiro-wetland.md) - 日本最大濕地
-- [支笏洞爺國立公園 (Shikotsu-Toya National Park)](nature/shikotsu-toya.md) - 火山與湖泊之国
-- [支笏湖 (Lake Shikotsu)](nature/lake-shikotsu.md) - 美麗的破火山口湖
 - [知床五湖 (Shiretoko Goko Lakes)](nature/shiretoko-five-lakes.md) - 原始自然之美
 - [層雲峽 (Soununkyō)](nature/soununkyo.md) - 壯觀峽谷與瀑布
 - [羊蹄山 (Mount Yōtei)](nature/mount-yotei.md) - 蝦夷富士
 - [禮文島 (Rebun Island)](nature/rebun-island.md) - 高山植物的寶庫
 - [神之水溫泉瀑布 (Kamuiwakka Falls)](nature/kamuiwakka-falls.md) - 可泡溫泉的瀑布
-- [天都山 (Mount Tento)](nature/mount-tento.md) - 網走市的展望台
 
 ### 美食與體驗
-- [札幌雪祭 (Sapporo Snow Festival)](food/sapporo-snow-festival.md) - 冰雪雕刻盛典
 - [札幌啤酒博物館 (Sapporo Beer Museum)](food/sapporo-beer-museum.md) - 品味百年啤酒
 - [小樽運河 (Otaru Canal)](food/otaru-canal.md) - 浪漫煤燈運河
-- [富田農場 (Farm Tomita)](food/farm-tomita.md) - 薰衣草花田
-- [北海島海鮮體驗](food/hokkaido-seafood.md) - 帝王蟹與海膽
+- [富田農場 (Farm Tomita)](food/farm-tomita.md) - 薰衣草花田（7-8月最佳）
 
 ### 戶外活動
-- [新雪谷 (Niseko)](outdoor/niseko.md) - 世界頂級粉雪滑雪場
-- [富良野滑雪場 (Furano Ski Resort)](outdoor/furano-ski.md) - 四季皆宜的度假勝地
-- [留壽都 (Rusutsu)](outdoor/rusutsu.md) - 家庭友好的滑雪度假村
+- [留壽都 (Rusutsu)](outdoor/rusutsu.md) - 家庭友好的滑雪度假村（夏季活動豐富）
 - [登別 (Noboribetsu)](outdoor/noboribetsu.md) - 地獄谷溫泉
 - [定山溪 (Jozankei)](outdoor/jozankei.md) - 峡谷溫泉鄉
 - [札幌巨蛋 (Sapporo Dome)](outdoor/sapporo-dome.md) - 足球與棒球聖殿
+
+### 夏日祭典 ✨NEW
+- [北海道理旭搖滾音樂節 (Rising Sun Rock Festival)](festivals/rising-sun-rock-festival.md) - 8月中旬，海濱搖滾盛典
+- [富良野神社祭典 (Furano Shrine Festival)](festivals/furano-shumei-festival.md) - 8月25-26日，傳統祭典
+- [札幌夏祭 (Sapporo Summer Festival)](festivals/sapporo-summer-festival.md) - 6-8月，啤酒花園與祭典活動
