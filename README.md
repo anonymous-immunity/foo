@@ -16,6 +16,9 @@ The capital city blending traditional culture with modern urban charm. From anci
 - Shibuya Crossing | 澀谷十字路口
 - Imperial Palace | 皇居
 
+**Travel Itinerary | 旅遊行程:**
+- [9-Day Tokyo](./tokyo-itinerary.md)
+
 ---
 
 ### [Hokkaido 北海道](hokkaido/index.md)
